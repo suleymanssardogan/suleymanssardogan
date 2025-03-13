@@ -1,16 +1,22 @@
 ## Hi there 👋
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suleymanssardogan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=suleymanssardogan&theme=dracula&hide_border=false)
 
-<!--
-**suleymanssardogan/suleymanssardogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+🔭 Şu anda **[Uluslararası Efficiency Challenge] ve [Premier Leagu Data Analyst]** üzerinde çalışıyorum<br> 
+🌱 **[Öğrendiğin konular ( IoT, Data Science, STM32,Arduino,Elektronik İletişim Protokolleri(SPI,I2C,LoRa,UART,CAN Bus))]** üzerine kendimi geliştiriyorum<br> 
+📫 Bana ulaş: **[https://www.linkedin.com/in/suleyman-sardogan-369875286/]
+                [sardogansuleyman04@gmail.com]**<br>
 
-Here are some ideas to get you started:
+👯 İş birliği yapmak istiyorum: **[🔹 Açık kaynak projeler (özellikle IoT, gömülü sistemler, RTOS, STM32 projeleri)
+🔹 Freelance yazılım geliştirme (C#, Python, Gömülü Yazılım, Web Geliştirme)
+🔹 Elektrikli araç sistemleri (Motor sürücüler, Telemetri, Otonom kontrol)
+🔹 Drone ve uydu projeleri (Haberleşme sistemleri, uçuş kontrol yazılımı)
+🔹 Veri bilimi ve makine öğrenmesi (Analiz, Python ile veri görselleştirme)
+🔹 Hackathon ve yarışma projeleri (TÜBİTAK, TEKNOFEST vb.)]**<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Süleyman Sardoğan/)
+
+![GitHub](https://img.shields.io/github/followers/suleymanssardogan?style=social)
+
