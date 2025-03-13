@@ -4,7 +4,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=suleymanssardogan&theme=dracula&hide_border=false)
 
 # 💫 About Me:
-🔭 Şu anda **[Uluslararası Efficiency Challenge] ve [Premier Leagu Data Analyst]** üzerinde çalışıyorum<br> 
+🔭 Şu anda *** Uluslararası Efficiency Challenge ve Premier Leagu Data Analyst *** üzerinde çalışıyorum<br> 
 🌱 **[Öğrendiğin konular ( IoT, Data Science, STM32,Arduino,Elektronik İletişim Protokolleri(SPI,I2C,LoRa,UART,CAN Bus))]** üzerine kendimi geliştiriyorum<br> 
 📫 Bana ulaş: **[https://www.linkedin.com/in/suleyman-sardogan-369875286/]
                 [sardogansuleyman04@gmail.com]**<br>
@@ -20,8 +20,8 @@
 
 🔹 Veri bilimi ve makine öğrenmesi (Analiz, Python ile veri görselleştirme)
 
-🔹 Hackathon ve yarışma projeleri (TÜBİTAK, TEKNOFEST vb.)]**<br>
+🔹 Hackathon ve yarışma projeleri (TÜBİTAK2209A, TEKNOFEST vb.)]**<br>
 
-(https://www.linkedin.com/in/suleyman sardogan/)
+https://www.linkedin.com/in/suleyman-sardogan-369875286/
 
 
