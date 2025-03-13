@@ -9,14 +9,19 @@
 📫 Bana ulaş: **[https://www.linkedin.com/in/suleyman-sardogan-369875286/]
                 [sardogansuleyman04@gmail.com]**<br>
 
-👯 İş birliği yapmak istiyorum: **[🔹 Açık kaynak projeler (özellikle IoT, gömülü sistemler, RTOS, STM32 projeleri)
+👯 İş birliği yapmak istiyorum: **[
+🔹 Açık kaynak projeler (özellikle IoT, gömülü sistemler, RTOS, STM32 projeleri)
+
 🔹 Freelance yazılım geliştirme (C#, Python, Gömülü Yazılım, Web Geliştirme)
+
 🔹 Elektrikli araç sistemleri (Motor sürücüler, Telemetri, Otonom kontrol)
+
 🔹 Drone ve uydu projeleri (Haberleşme sistemleri, uçuş kontrol yazılımı)
+
 🔹 Veri bilimi ve makine öğrenmesi (Analiz, Python ile veri görselleştirme)
+
 🔹 Hackathon ve yarışma projeleri (TÜBİTAK, TEKNOFEST vb.)]**<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Süleyman Sardoğan/)
+(https://www.linkedin.com/in/Süleyman Sardoğan/)
 
-![GitHub](https://img.shields.io/github/followers/suleymanssardogan?style=social)
 
