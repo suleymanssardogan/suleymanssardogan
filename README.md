@@ -22,6 +22,6 @@
 
 🔹 Hackathon ve yarışma projeleri (TÜBİTAK, TEKNOFEST vb.)]**<br>
 
-(https://www.linkedin.com/in/Süleyman Sardoğan/)
+(https://www.linkedin.com/in/suleyman sardogan/)
 
 
