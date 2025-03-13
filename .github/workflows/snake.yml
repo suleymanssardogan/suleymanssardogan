@@ -1,8 +1,7 @@
 name: Generate Snake Animation
 
 on:
-  workflow_dispatch:  # Manuel tetikleme
-  # cron: "0 0 * * *"  # Bu satırı kaldırabilirsin (isteğe bağlı)
+  workflow_dispatch:  # Workflow'u manuel olarak tetikle
 
 jobs:
   generate:
@@ -15,10 +14,10 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          output_dir: ./dist  # Çıktıyı 'dist' klasörüne kaydet
 
-      - name: Push Snake Animation to Profile
+      - name: Upload Snake Animation as Artifact
         uses: actions/upload-artifact@v3
         with:
           name: snake
-          path: dist/snake.svg
+          path: ./dist/snake.svg  # Dosya yolunun doğru olduğundan emin ol
