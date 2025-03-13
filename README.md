@@ -27,3 +27,7 @@
 https://www.linkedin.com/in/suleyman-sardogan-369875286/
 
 
+![GitHub Snake Animation](https://github.com/suleymanssardogan/suleymanssardogan/blob/output/github-contribution-grid-snake.svg)
+
+
+
