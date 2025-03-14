@@ -3,6 +3,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=suleymanssardogan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=suleymanssardogan&theme=dracula&hide_border=false)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suleymanssardogan&theme=dark)
+
 # 💫 About Me:
 🔭 Şu anda **[luslararası Efficiency Challenge ve Premier Leagu Data Analyst] *** üzerinde çalışıyorum<br> 
 
