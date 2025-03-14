@@ -1,4 +1,4 @@
-## Hi there 👋
+## **Hi 👋, I'm Süleyman Sardoğan** 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suleymanssardogan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=suleymanssardogan&theme=dracula&hide_border=false)
