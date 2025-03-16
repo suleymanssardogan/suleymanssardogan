@@ -6,14 +6,14 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suleymanssardogan&theme=red)
 
 # 💫 About Me:
-🔭 Şu anda **[luslararası Efficiency Challenge ve Premier Leagu Data Analyst] *** üzerinde çalışıyorum<br> 
+🔭 Şu anda **Uluslararası Efficiency Challenge ve Data Analyst*** üzerinde çalışıyorum<br> 
 
-🌱 **[Öğrendiğin konular ( IoT, Data Science, STM32,Arduino,Elektronik İletişim Protokolleri(SPI,I2C,LoRa,UART))]** üzerine kendimi geliştiriyorum<br> 
+🌱 **Öğrendiğin konular IoT,Data Science ,Embedded Systems, Machine Learning** üzerine kendimi geliştiriyorum<br> 
 
 📫 Bana ulaş: **[https://www.linkedin.com/in/suleyman-sardogan-369875286/]
                 [sardogansuleyman04@gmail.com]**<br>
 
-👯 İş birliği yapmak istiyorum: **[
+👯 İş birliği yapmak istiyorum: 
 🔹 Açık kaynak projeler (özellikle IoT, gömülü sistemler, RTOS, STM32 projeleri)
 
 🔹 Freelance yazılım geliştirme (C#, Python, Gömülü Yazılım, Web Geliştirme)
@@ -24,12 +24,11 @@
 
 🔹 Veri bilimi ve makine öğrenmesi (Analiz, Python ile veri görselleştirme)
 
-🔹 Hackathon ve yarışma projeleri (TÜBİTAK2209A, TEKNOFEST vb.)]**<br>
+🔹 Yarışma projeleri (TÜBİTAK2209A, TEKNOFEST vb.)
 
 https://www.linkedin.com/in/suleyman-sardogan-369875286/
 
 
-![GitHub Snake Animation](https://github.com/suleymanssardogan/suleymanssardogan/blob/output/github-contribution-grid-snake.svg)
 
 
 
