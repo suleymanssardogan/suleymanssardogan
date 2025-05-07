@@ -26,6 +26,7 @@
 
 🔹 Yarışma projeleri (TÜBİTAK2209A, TEKNOFEST vb.)
 
+📞 Let's Contact
 https://www.linkedin.com/in/suleyman-sardogan-369875286/
 
 
