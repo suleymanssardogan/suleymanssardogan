@@ -4,11 +4,11 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=suleymanssardogan&theme=dracula&hide_border=false)
 
 <h1 align="center">Hi 👋, I'm Süleyman Sardoğan</h1>
-<h3 align="center">Interest in Software,Math and Space. Second year of Software Enginerring Student at Fırat University</h3>
+<h3 align="center">Interest in Software,Math and Space.Third year of Software Engineering Student at Fırat University</h3>
 
 - 🔭 I’m currently working on **Data Science ,Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning ,SQL,Python**
+- 🌱 I’m currently learning **Machine Learning ,Computer Vision,Python**
 
 - 👯 I’m looking to collaborate on **AI Project**
 
@@ -29,15 +29,15 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suleymanssardogan&theme=red)
 
 # 💫 About Me:
-🔭 Şu anda **Uluslararası Efficiency Challenge ve Data Analyst*** üzerinde çalışıyorum<br> 
+🔭 Şu anda **Uluslararası Efficiency Challenge,Computer Vision , Fake News Detection*** üzerinde çalışıyorum<br> 
 
-🌱 **Öğrendiğin konular IoT,Data Science ,Embedded Systems, Machine Learning** üzerine kendimi geliştiriyorum<br> 
+🌱 **Öğrendiğin konular IoT,Data Science ,Embedded Systems, Machine Learning,AWS** üzerine kendimi geliştiriyorum<br> 
 
 📫 Bana ulaş: **[https://www.linkedin.com/in/suleyman-sardogan-369875286/]
                 [sardogansuleyman04@gmail.com]**<br>
 
 👯 İş birliği yapmak istiyorum: 
-🔹 Açık kaynak projeler (özellikle IoT, gömülü sistemler, RTOS, STM32 projeleri)
+🔹 Açık kaynak projeler (özellikle IoT, gömülü sistemler, RTOS)
 
 🔹 Freelance yazılım geliştirme (C#, Python, Gömülü Yazılım, Web Geliştirme)
 
