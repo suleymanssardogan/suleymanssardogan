@@ -52,6 +52,9 @@
 📞 Let's Contact
 https://www.linkedin.com/in/suleyman-sardogan-369875286/
 
+## 🐍 GitHub Katkı Yılanım
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/suleymanssardogan/suleymanssardogan/output/github-contribution-grid-snake.svg)
 
 
 
