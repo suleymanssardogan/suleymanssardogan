@@ -18,10 +18,10 @@ Third year Software Engineering Student at Fırat University.</h3>
 ### 👯 İş Birliği Alanlarım
 Aşağıdaki konularda iş birliklerine ve projelere açığım:
 <ul>
-  <li>Açık kaynak projeler (özellikle IoT, gömülü sistemler, RTOS)</li>
+  <li>Açık kaynak projeler (özellikle IoT, gömülü sistemler)</li>
   <li>Freelance yazılım geliştirme (C#, Python, Gömülü Yazılım, Web)</li>
   <li>Elektrikli araç sistemleri (Motor sürücüler, Telemetri, Otonom kontrol)</li>
-  <li>Drone ve uydu projeleri (Haberleşme sistemleri, uçuş kontrol yazılımı)</li>
+  <li>Drone ve uydu projeleri (Haberleşme sistemleri)</li>
   <li>Veri bilimi ve makine öğrenmesi (Analiz, Python ile veri görselleştirme)</li>
   <li>Yarışma projeleri (TÜBİTAK 2209A, TEKNOFEST vb.)</li>
 </ul>
@@ -69,7 +69,7 @@ Aşağıdaki konularda iş birliklerine ve projelere açığım:
   <a href="https://kaggle.com/sleymansardoan" target="blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Kaggle logo"  />
   </a>
-  <a href="https://www.leetcode.com/suleymansardogan" target="blank">
+  <a href="https://leetcode.com/u/Sulo88/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="LeetCode logo"  />
   </a>
 </p>
