@@ -38,7 +38,9 @@ Aşağıdaki konularda iş birliklerine ve projelere açığım:
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github.com/suleymanssardogan/suleymanssardogan/blob/main/space-tech.png?raw=true" alt="Yazılım Mühendisliği ve Uzay Temalı Banner" width="800"/>
+</p>
 ### 🛠️ Diller ve Araçlar
 
 <p align="left">
