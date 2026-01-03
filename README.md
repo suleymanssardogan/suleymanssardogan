@@ -5,8 +5,23 @@ Third year Software Engineering Student at Fırat University.</h3>
 
 ---
 
-# 💫 About Me:
-🛠️ I'm currently working on:<br>Machine Learning pipelines (Python, Flask, Docker, PostgreSQL, Supabase), Computer Vision projects, and embedded systems integrations (Raspberry Pi, sensors, microcontrollers).<br><br>👯 I'm looking to collaborate on:<br>AI/ML projects, Computer Vision applications, reinforcement learning experiments, cloud-based automation systems (AWS),  and open-source tools that help developers.<br><br>🤝 I'm looking for help with:<br>Advanced deep learning architectures, multi-agent AI systems, edge AI optimization, and scaling ML services into production.<br><br>🌱 I'm currently learning:<br>Reinforcement Learning, advanced Computer Vision, cloud infrastructure (Docker, Kubernetes, AWS Lambda, API Gateway), automation workflows, and microprocessor-level programming.<br><br>💬 Ask me about:<br>Machine Learning, Computer Vision, OCR pipelines, FastAPI/Flask backend design, PostgreSQL/MongoDB, embedded systems, Raspberry Pi camera projects, dev-ops pipelines, or study abroad / Erasmus internship experiences.<br><br>⚡ Fun fact:<br>I love building AI projects that automate real-world problems, and I can switch from deep learning to embedded systems to cloud services in the same day — because I genuinely enjoy learning everything about tech.
+🛠️ Currently working on:
+Machine Learning pipelines (Python,Docker), Computer Vision projects, and cloud-based ML systems (PostgreSQL, Supabase).
+
+👯 Open to collaborate on:
+AI/ML projects, Computer Vision applications, cloud automation (AWS), and open-source developer tools.
+
+🤝 Looking for help with:
+Advanced deep learning architectures, multi-agent AI systems, edge-to-cloud ML deployment, and scaling ML services into production.
+
+🌱 Currently learning:
+Advanced Computer Vision, MLOps fundamentals, Docker & Kubernetes, AWS (Lambda, API Gateway), and production-grade ML pipelines.
+
+💬 Ask me about:
+Machine Learning, Computer Vision, backend ML services (Flask/FastAPI), databases, cloud-based ML systems, or Erasmus internship experiences.
+
+⚡ Fun fact:
+I enjoy building end-to-end ML systems—from data pipelines to cloud deployment—and I previously worked with embedded systems and hardware-level projects.
 
 
 ## 🌐 Socials:
