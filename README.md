@@ -14,14 +14,8 @@ AI/ML projects, Computer Vision applications, cloud automation (AWS), and open-s
 🤝 Looking for help with:
 Advanced deep learning architectures, multi-agent AI systems, edge-to-cloud ML deployment, and scaling ML services into production.
 
-🌱 Currently learning:
-Advanced Computer Vision, MLOps fundamentals, Docker & Kubernetes, AWS (Lambda, API Gateway), and production-grade ML pipelines.
+Just Learner, Curious Person
 
-💬 Ask me about:
-Machine Learning, Computer Vision, backend ML services (Flask/FastAPI), databases, cloud-based ML systems, or Erasmus internship experiences.
-
-⚡ Fun fact:
-I enjoy building end-to-end ML systems—from data pipelines to cloud deployment—and I previously worked with embedded systems and hardware-level projects.
 
 
 ## 🌐 Socials:
