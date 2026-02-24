@@ -26,6 +26,7 @@ Just Learner, Curious Person
 <p align="center">
   <img src="space-tech.png" alt="Space Tech" width="600"/>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suleymanssardogan&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=suleymanssardogan&theme=shadow_blue&hide_border=false)<br/>
