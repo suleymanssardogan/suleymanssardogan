@@ -20,6 +20,7 @@ and making models actually useful in production.
 🎯 **Goal:** Becoming an AI Systems Engineer  
 🤝 **Open to:** AI/ML projects, open-source collaboration  
 📍 **Based in:** Antalya, Turkey
+
 🌐 **Portfolio:** [suleymanssardogan.vercel.app](https://my-portfolio-website-beige-gamma.vercel.app/)
 
 Just Learner, Curious Person
