@@ -1,19 +1,25 @@
-<h1 align="center">Hi 👋, I'm Süleyman Sardoğan</h1>
-<h3 align="center">Interest in Software, Math and Space.
-<br>
-Third year Software Engineering Student at Fırat University.</h3>
+
+
+# Hi 👋, I'm Süleyman Sardoğan
+
+### Software Engineering student at Fırat University — focused on AI Systems & Machine Learning.
 
 ---
 
-🛠️ Currently working on:
-Machine Learning pipelines (Python,Docker), Computer Vision projects, and cloud-based ML systems (PostgreSQL, Supabase).
+I enjoy turning ideas into real AI-powered products.
+Currently building **TripClip AI** and exploring how intelligent systems
+can work reliably at scale — from training to deployment.
 
-👯 Open to collaborate on:
-AI/ML projects, Computer Vision applications, cloud automation (AWS), and open-source developer tools.
+I'm drawn to the engineering side of AI: pipelines, agents, cloud infrastructure,
+and making models actually useful in production.
 
-🤝 Looking for help with:
-Advanced deep learning architectures, multi-agent AI systems, edge-to-cloud ML deployment, and scaling ML services into production.
+---
 
+🛠️ **Currently building:** TripClip AI — AI-powered travel content tool  
+🌱 **Exploring:** Multi-agent systems, MLOps, edge-to-cloud deployment  
+🎯 **Goal:** Becoming an AI Systems Engineer  
+🤝 **Open to:** AI/ML projects, open-source collaboration  
+📍 **Based in:** Antalya, Turkey
 Just Learner, Curious Person
 
 
