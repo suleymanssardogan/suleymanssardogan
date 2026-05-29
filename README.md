@@ -21,7 +21,7 @@ and making models actually useful in production.
 🤝 **Open to:** AI/ML projects, open-source collaboration  
 📍 **Based in:** Antalya, Turkey
 
-🌐 **Portfolio:** [suleymanssardogan.vercel.app](https://my-portfolio-website-beige-gamma.vercel.app/)
+🌐 **Portfolio:** [suleymanssardogan.vercel.app](https://suleymansardogan.me/)
 
 Just Learner, Curious Person
 
