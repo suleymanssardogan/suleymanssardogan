@@ -9,7 +9,7 @@ production-grade AI systems — not just notebooks.
 
 ## About Me
 
-- 3rd-year **Software Engineering** student at **Fırat University** (grad. 2027)
+- 4rd-year **Software Engineering** student at **Fırat University** (grad. 2027)
 - AI Engineer intern at **WSTI, Poland** (Erasmus+, Jul–Sep 2025) — built an OCR solution in Python/Pytesseract, designed and deployed a FastAPI REST API, containerized with Docker
 - Currently working on **agent systems**: LangGraph, tool calling, multi-agent orchestration
 - Interested in the boring-but-hard parts: retrieval quality, evaluation, guardrails, async pipelines
