@@ -2,7 +2,7 @@
 
 **AI Systems Engineer | Computer Vision, OCR Pipelines & LLM Applications**
 
-Third-year Software Engineering student at Fırat University, focused on building
+Fourth-year Software Engineering student at Fırat University, focused on building
 production-grade AI systems — not just notebooks.
 
 ---
