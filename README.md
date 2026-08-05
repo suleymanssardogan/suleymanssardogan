@@ -1,51 +1,64 @@
+# Süleyman Sardoğan
 
+**AI Systems Engineer | Computer Vision, OCR Pipelines & LLM Applications**
 
-# Hi 👋, I'm Süleyman Sardoğan
-
-### Software Engineering student at Fırat University — focused on AI Systems & Machine Learning.
-
----
-
-I enjoy turning ideas into real AI-powered products.
-Currently building **TripClip AI** and exploring how intelligent systems
-can work reliably at scale — from training to deployment.
-
-I'm drawn to the engineering side of AI: pipelines, agents, cloud infrastructure,
-and making models actually useful in production.
+Third-year Software Engineering student at Fırat University, focused on building
+production-grade AI systems — not just notebooks.
 
 ---
 
-🛠️ **Currently building:** TripClip AI — AI-powered travel content tool  
-🌱 **Exploring:** Multi-agent systems, MLOps, edge-to-cloud deployment  
-🎯 **Goal:** Becoming an AI Systems Engineer  
-🤝 **Open to:** AI/ML projects, open-source collaboration  
-📍 **Based in:** Antalya, Turkey
+## About Me
 
-🌐 **Portfolio:** [suleymanssardogan](https://suleymansardogan.me/)
-
-Just Learner, Curious Person
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleyman-sardogan-369875286/)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suleymanssardogan&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suleymanssardogan&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanssardogan&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suleymanssardogan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 3rd-year **Software Engineering** student at **Fırat University** (grad. 2027)
+- AI Engineer intern at **WSTI, Poland** (Erasmus+, Jul–Sep 2025) — built an OCR solution in Python/Pytesseract, designed and deployed a FastAPI REST API, containerized with Docker
+- Currently working on **agent systems**: LangGraph, tool calling, multi-agent orchestration
+- Interested in the boring-but-hard parts: retrieval quality, evaluation, guardrails, async pipelines
+- Based in Antalya, Türkiye
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suleymanssardogan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 🐍 GitHub Katkı Yılanım
+## Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suleymanssardogan/suleymanssardogan/output/snake.svg" alt="Snake animation" />
-</p>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Backend & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## Featured Projects
+
+| | |
+|---|---|
+| **[TripClip AI](https://github.com/suleymanssardogan/TripClip-AI)** <br> AI-powered travel content analysis and route generation — extracts locations from videos via OCR and NER, then optimizes an itinerary. <br> `Python` `FastAPI` `YOLOv8` `Whisper` `PostgreSQL` `Docker` | **[Erasmus AI CV Analysis](https://github.com/suleymanssardogan/Erasmus-Staj-AI-Powered-CV-Analysis)** <br> Automated CV screening system built during my Erasmus+ internship: OCR text extraction plus AI-based evaluation, served over a REST API. <br> `Python` `Pytesseract` `FastAPI` `Docker` |
+
+---
+
+## Currently Learning
+
+| **Agent Systems** | **Backend at Scale** |
+|---|---|
+| LangGraph & multi-agent orchestration <br> Tool calling & structured output <br> Guardrails and evaluation | Partitioning vs. sharding <br> Async task queues <br> Observability & tracing |
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suleymansardogan.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleyman-sardogan-369875286/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sardogansuleyman04@gmail.com)
