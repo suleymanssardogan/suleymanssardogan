@@ -1,6 +1,6 @@
 # Süleyman Sardoğan
 
-**AI Systems Engineer | Computer Vision & LLM Applications**
+** Software Engineering Student | AI,System Design,Backend**
 
 Fourth-year Software Engineering student at Fırat University, focused on building
 production-grade AI systems — not just notebooks.
