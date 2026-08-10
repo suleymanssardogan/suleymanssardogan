@@ -53,7 +53,7 @@ production-grade AI systems — not just notebooks.
 
 | **Agent Systems** | **Backend at Scale** |
 |---|---|
-| LangGraph & multi-agent orchestration <br> Tool calling & structured output <br> Guardrails and evaluation | Partitioning vs. sharding <br> Async task queues <br> Observability & tracing |
+| LangGraph & multi-agent orchestration <br> Tool calling & structured output <br> Guardrails and evaluation | <br> Async task queues <br> Observability & tracing |
 
 ---
 
