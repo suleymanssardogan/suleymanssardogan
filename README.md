@@ -1,6 +1,6 @@
 # Süleyman Sardoğan
 
-** Software Engineering Student | AI,System Design,Backend**
+**Software Engineering Student | AI,System Design,Backend**
 
 Fourth-year Software Engineering student at Fırat University, focused on building
 production-grade AI systems — not just notebooks.
