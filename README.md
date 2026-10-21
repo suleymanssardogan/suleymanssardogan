@@ -1,62 +1,49 @@
 # Süleyman Sardoğan
 
-**Software Engineering Student | AI,System Design,Backend**
+**Software Engineering Student | AI & Backend Development**
 
-Fourth-year Software Engineering student at Fırat University, focused on building
-production-grade AI systems — not just notebooks.
+I'm a final-year Software Engineering student at Fırat University, building AI applications and backend services with Python, FastAPI, and Docker. My interests include agent workflows, retrieval quality, and reliable API design.
 
----
-
-## About Me
-
-- 4rd-year **Software Engineering** student at **Fırat University** (grad. 2027)
-- AI Engineer intern at **WSTI, Poland** (Erasmus+, Jul–Sep 2025) — built an OCR solution in Python/Pytesseract, designed and deployed a FastAPI REST API, containerized with Docker
-- Currently working on **agent systems**: LangGraph, tool calling, multi-agent orchestration
-- Interested in the boring-but-hard parts: retrieval quality, evaluation, guardrails, async pipelines
-- Based in Antalya, Türkiye
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Backend & Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
+[Portfolio](https://suleymansardogan.me/) · [LinkedIn](https://www.linkedin.com/in/suleyman-sardogan-369875286/) · [Email](mailto:sardogansuleyman04@gmail.com)
 
 ## Featured Projects
 
-| | |
-|---|---|
-| **[TripClip AI](https://github.com/suleymanssardogan/TripClip-AI)** <br> AI-powered travel content analysis and route generation — extracts locations from videos via OCR and NER, then optimizes an itinerary. <br> `Python` `FastAPI` `YOLOv8` `Whisper` `PostgreSQL` `Docker` | **[Erasmus AI CV Analysis](https://github.com/suleymanssardogan/Erasmus-Staj-AI-Powered-CV-Analysis)** <br> Automated CV screening system built during my Erasmus+ internship: OCR text extraction plus AI-based evaluation, served over a REST API. <br> `Python` `Pytesseract` `FastAPI` `Docker` |
+### [TripClip AI](https://github.com/suleymanssardogan/TripClip-AI)
 
----
+An AI application that turns travel video content into itineraries. It extracts locations using OCR and named entity recognition, then uses them to generate and optimize a travel route.
 
-## Currently Learning
+**Technologies:** Python · FastAPI · YOLOv8 · Whisper · PostgreSQL · Docker
 
-| **Agent Systems** | **Backend at Scale** |
-|---|---|
-| LangGraph & multi-agent orchestration <br> Tool calling & structured output <br> Guardrails and evaluation | <br> Async task queues <br> Observability & tracing |
+### [Erasmus AI CV Analysis](https://github.com/suleymanssardogan/Erasmus-Staj-AI-Powered-CV-Analysis)
 
----
+A CV analysis system developed during my Erasmus+ internship. It combines OCR text extraction with AI-based evaluation and exposes the workflow through a REST API.
 
-## Connect
+**Technologies:** Python · Pytesseract · FastAPI · Docker
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suleymansardogan.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleyman-sardogan-369875286/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sardogansuleyman04@gmail.com)
+## Experience & Education
+
+**AI Engineering Intern — WSTI, Poland**  
+Erasmus+ · July–September 2025
+
+- Developed an OCR solution using Python and Pytesseract.
+- Designed and deployed a REST API with FastAPI.
+- Containerized the application with Docker.
+
+**Software Engineering — Fırat University**  
+Final year · Expected graduation: 2027
+
+Based in Antalya, Türkiye.
+
+## Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, C#, SQL |
+| AI & Machine Learning | Hugging Face, scikit-learn, OCR |
+| Backend & Infrastructure | FastAPI, Docker, PostgreSQL, AWS |
+
+## Currently Exploring
+
+- **Agent systems:** LangGraph, tool calling, structured outputs, and multi-agent orchestration.
+- **AI reliability:** Retrieval evaluation and guardrails.
+- **Backend systems:** Asynchronous task queues, observability, and tracing.
